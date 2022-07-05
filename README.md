@@ -50,7 +50,7 @@
 </table>
 
 <h3>From the Gram</h3>
-<p><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /> </p>
+<p><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/w_768/v1653117625/66222-B26-7041-4-EB0-A1-AA-2873-F6144620_l5qvgu.jpg" /><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/w_768/v1653054919/B64-DB3-AF-F7-A4-424-F-80-E2-6-AF4-C4253844_mlzij5.jpg" /><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/w_768/v1653132163/47-AE6167-9936-499-E-87-EE-4-F7-EBDD30-CAB_pw805v.jpg" /> </p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/guywithbluecap/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @guywithbluecap!</a><br/>
 📈 my github stats
 
