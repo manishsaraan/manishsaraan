@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my GitHub page! </br> I'm Manish, Fullstack developer/Maker from India. I like to learn new technologies and build side projects. Currently building <a href="https://post2image.xyz">Post2Image</a></b>. </p>
+<p>Welcome to my GitHub page! </br> I'm Manish, Fullstack developer/Maker from India. I like to learn new technologies and build side projects. Currently building <a href="[https://post2image.xyz](https://github.com/manishsaraan/happytails)">HappyTails</a></b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
